@@ -1,0 +1,103 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "title": "Capitão America",
+      "poder": 89,
+      "fraqueza": 20,
+      "recuperacao": 70,
+      "defesa": 92,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 2,
+      "title": "Capitã Marvel",
+      "poder": 150,
+      "fraqueza": 5,
+      "recuperacao": 100,
+      "defesa": 92,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 3,
+      "title": "Caveira Vermelha",
+      "poder": 50,
+      "fraqueza": 30,
+      "recuperacao": 20,
+      "defesa": 12,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 4,
+      "title": "Gavião",
+      "poder": 40,
+      "fraqueza": 60,
+      "recuperacao": 5,
+      "defesa": 20,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 5,
+      "title": "Groot",
+      "poder": 130,
+      "fraqueza": 2,
+      "recuperacao": 90,
+      "defesa": 92,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 6,
+      "title": "Homem-Aranha",
+      "poder": 89,
+      "fraqueza": 5,
+      "recuperacao": 70,
+      "defesa": 92,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 7,
+      "title": "Senhor das Estrelas",
+      "poder": 89,
+      "fraqueza": 5,
+      "recuperacao": 70,
+      "defesa": 92,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 8,
+      "title": "Homem-Formiga",
+      "poder": 89,
+      "fraqueza": 5,
+      "recuperacao": 70,
+      "defesa": 92,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 9,
+      "title": "Hulk",
+      "poder": 200,
+      "fraqueza": 0,
+      "recuperacao": 100,
+      "defesa": 100,
+      "avatar": "../../../assets/ironman2.png"
+    },
+    {
+      "id": 10,
+      "title": "IRON-MAN",
+      "poder": 1000,
+      "fraqueza": 0,
+      "recuperacao": 20,
+      "defesa": 100,
+      "avatar": "../../../assets/ironman2.png"
+    }
+  ],
+  "user": [
+    {
+      "id": 65161687498,
+      "name": "FanBoy Marvel",
+      "avatar": 1,
+      "email": "fanboymarvel@marvel>dc.com.br",
+      "senha": "Avengers, assemble"
+    }
+  ]
+}
